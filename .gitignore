@@ -2,3 +2,6 @@ venv/
 
 weather_key.txt
 spotify.json
+Imagga_key.TXT
+spotify.json-checkpoint-checkpoint.txt
+.ipynb_checkpoints
